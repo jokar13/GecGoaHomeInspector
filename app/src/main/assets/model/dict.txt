@@ -1,0 +1,6 @@
+vegetation
+alkali_aggregate_reaction
+spalling
+crazing
+settlement_crack
+shrinkage_crack

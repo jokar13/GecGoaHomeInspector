@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056970973345",
+    "firebase_url": "https://home-inspector-eb6d4.firebaseio.com",
+    "project_id": "home-inspector-eb6d4",
+    "storage_bucket": "home-inspector-eb6d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056970973345:android:0e17e1fc87372ca606d0e0",
+        "android_client_info": {
+          "package_name": "com.stucturalgarage.homeinspector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056970973345-tsob5lma894ch74djjm4spjg04uqh9o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrLUQGqzgfUiHGTiAejrhhwPYnUFYi81o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056970973345-tsob5lma894ch74djjm4spjg04uqh9o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
